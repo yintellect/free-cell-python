@@ -1,6 +1,6 @@
 # **Freecell Game in Text Form Writing in Python**
 
-##I. Motivation
+## I. Motivation
 
 Freecell was my mom's favorite game in Window 98 when she bought the first desktop PC for our family. Therefore, after I learned Object-Oriented (OO) programming in python in 2017, the first project completed is writing a Freecell game with python in memory of my parents' early vision in computational literacy and their support on my adventure in computational social sciences research. Though this is the least serviceable project, I have done, compared with some widgets I wrote, helped my mom making Excel spreadsheets 🤣
 
