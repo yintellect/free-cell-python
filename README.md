@@ -327,7 +327,7 @@ class Freecell:
 
 The piles are shown vertically on the game board. The cells lie in the upper left, the foundations on the upper right. Each card in a pile is represented in *rank, suit, color*.
 
-![Screen Shot 2017-09-22 at 9.06.12 PM](ScreenShot/Screen Shot 2017-09-22 at 9.06.12 PM.jpg)
+![Screen Shot 2017-09-22 at 9.06.12 PM](ScreenShot/3.png)
 
 
 
